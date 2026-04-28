@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 # Patrick Kwon
 
 Berkeley Data Science / Computer Science / Cognitive Science
+GPU + ML @ Lawrence Berkeley National Lab
 Incoming SWE @ BlackRock (Summer 2026)
-GPU + ML @ Lawrence Berkeley National Lab  
 Prev Founding SWE @ Dorsal.fyi (acquired by Promise)
 
 I work across scientific computing, backend-heavy applications, and performance-focused ML tooling.
