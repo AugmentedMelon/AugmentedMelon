@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1e4b7dbb-f6b4-47ee-bd04-c386125a3b23" />## Hi there 👋
+/>## Hi there 👋
 
 <!--
 **AugmentedMelon/AugmentedMelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
