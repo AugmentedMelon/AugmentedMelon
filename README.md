@@ -20,6 +20,8 @@ Incoming SWE @ BlackRock (Summer 2026)
 Prev Founding SWE @ Dorsal.fyi (acquired by Promise)
 
 I build systems across full-stack applications, ML infra & HPC related software. 
+Most of my recent work lives in private research and production repositories.
+This profile highlights selected public experiments and supporting projects.
 
 ## Current Focus
 • Scaling GPU-accelerated scientific computing @ LBNL
