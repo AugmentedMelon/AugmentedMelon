@@ -22,6 +22,7 @@ Prev Founding SWE @ Dorsal.fyi (acquired by Promise)
 I work across scientific computing, backend-heavy applications, and performance-focused ML tooling.
 Most of my recent work lives in private research and production repositories.
 This profile highlights selected public experiments and supporting projects.
+Public repos underrepresent my primary systems / HPC work.
 
 ## Current Focus
 • Scaling GPU-accelerated scientific computing @ LBNL
