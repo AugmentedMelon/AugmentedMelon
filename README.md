@@ -35,7 +35,7 @@ Lawrence Berkeley National Lab
 
 Scaling real-space density functional theory workloads using GPU acceleration and parallel numerical methods
 Work includes GPU acceleration of numerical simulation workloads
-and performance experimentation across parallel compute pipelines.
+and performance experimentation across parallel compute pipelines
 
 Stack:
 CUDA, Python, PyTorch
