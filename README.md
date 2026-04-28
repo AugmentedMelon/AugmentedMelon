@@ -23,6 +23,7 @@ I build systems across full-stack applications, ML infra & HPC related software.
 
 ## Current Focus
 • Scaling GPU-accelerated scientific computing @ LBNL
+
 • Joining asset management team @ BlackRock
 
 ## Selected Projects
@@ -51,7 +52,7 @@ Portfolio:
 https://personal-portfolio-amber-xi-58.vercel.app
 
 LinkedIn:
-[(add link)](https://www.linkedin.com/in/patrickkwon27/)
+[(Link Here)](https://www.linkedin.com/in/patrickkwon27/)
 
 Email:
 kwnpatrick@gmail.com
