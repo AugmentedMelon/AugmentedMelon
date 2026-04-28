@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 # Patrick Kwon
 
-Berkeley Data Science / Computer Science / Cognitive Science  
-GPU + ML @ Lawrence Berkeley National Lab  
+Berkeley Data Science / Computer Science / Cognitive Science
 Incoming SWE @ BlackRock (Summer 2026)
+GPU + ML @ Lawrence Berkeley National Lab  
 Prev Founding SWE @ Dorsal.fyi (acquired by Promise)
 
-I build systems across full-stack applications, ML infra & HPC related software. 
+I work across scientific computing, backend-heavy applications, and performance-focused ML tooling.
 Most of my recent work lives in private research and production repositories.
 This profile highlights selected public experiments and supporting projects.
 
@@ -34,19 +34,21 @@ This profile highlights selected public experiments and supporting projects.
 Lawrence Berkeley National Lab
 
 Scaling real-space density functional theory workloads using GPU acceleration and parallel numerical methods
+Work includes GPU acceleration of numerical simulation workloads
+and performance experimentation across parallel compute pipelines.
 
 Stack:
 CUDA, Python, PyTorch
 
 ## Tech Stack
 
-Languages: Python • JavaScript • TypeScript • C++ • SQL • Java • HTML • CSS • C • Go (Golang)
+Languages: Python • JavaScript • TypeScript • C++ • SQL 
 
 Frameworks:  React.js • Node.js • Next.js • Express.js • Tailwind CSS • FastAPI
 
 Infra: MongoDB • PostgreSQL • Firebase • AWS • Docker • Kubernetes • Git
 
-ML: CUDA • PyTorch • NumPy • pandas • scikit-learn
+ML/HPC: CUDA • PyTorch • NumPy • pandas • scikit-learn
 
 ## Links
 
@@ -58,3 +60,7 @@ LinkedIn:
 
 Email:
 kwnpatrick@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AugmentedMelon&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugmentedMelon&layout=compact)
+![Visitors](https://komarev.com/ghpvc/?username=AugmentedMelon)
